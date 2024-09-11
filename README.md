@@ -1,4 +1,4 @@
-# Data-Cleaning-Layoffs-Data
+# Data-Cleaning-Layoffs-Data 🧹
 This project focuses on cleaning and preparing a companies layoff dataset for further analysis. The primary goal is to ensure the data is accurate, consistent, and ready for use.
 
 Steps Undertaken:
